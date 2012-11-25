@@ -1,0 +1,10 @@
+Package: com.Leonnears.OpenDevTut.Celsius
+Name: Celsius
+Depends: sbsettings
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Description: An awesome SBSetting toggle!
+Maintainer: Andy Ibanez (Leonnears)
+Author: Andy Ibanez (Leonnears)
+Section: Addons (SBSettings)
+Installed-Size: 12

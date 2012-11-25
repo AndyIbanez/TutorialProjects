@@ -1,0 +1,5 @@
+The source code for my short "Getting Started" tutorial on SBSettings Toggles. You can read the full tutorial here:
+
+http://www.andyibanez.com/2012/11/24/writing-sbsettings-toggles-a-tutorial
+
+PLEASE NOTE this project was tested using iOS 6.0 in an iPod Touch 4G. If you're having problems running it, it's most likely due to an architecture problem. IN OTHER WORDS, TO FIX THIS, remove the first line in the makefile if you're compiling and running in devices running any iOS prior to iOS 6.x.x.
